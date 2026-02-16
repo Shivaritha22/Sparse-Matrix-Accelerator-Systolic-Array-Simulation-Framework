@@ -1,0 +1,6 @@
+Storage Overhead:
+Overall metadata/data ratio (elements): 0.0175781
+Decompression Latency:
+Tiles processed: 256
+Total BCSR decompression cycles (all tiles): 20224
+Average BCSR decompression cycles per tile: 79

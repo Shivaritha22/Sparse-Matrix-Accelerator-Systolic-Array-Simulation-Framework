@@ -1,0 +1,6 @@
+Storage Overhead:
+Overall metadata/data ratio (elements): 1
+Decompression Latency:
+Tiles processed: 256
+Total LIL decompression cycles (all tiles): 1
+Average LIL decompression cycles per tile: 0.00390625

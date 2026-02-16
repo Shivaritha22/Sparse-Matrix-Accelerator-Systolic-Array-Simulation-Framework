@@ -1,0 +1,6 @@
+Storage Overhead:
+Overall metadata/data ratio (elements): 1.03906
+Decompression Latency:
+Tiles processed: 256
+Total CSR decompression cycles (all tiles): 451942
+Average CSR decompression cycles per tile: 1765.4

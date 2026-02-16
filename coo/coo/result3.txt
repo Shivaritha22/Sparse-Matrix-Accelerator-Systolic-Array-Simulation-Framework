@@ -1,0 +1,6 @@
+Storage Overhead:
+Overall metadata/data ratio (elements): 2
+Decompression Latency:
+Tiles processed: 256
+Total COO decompression cycles (all tiles): 10486
+Average COO decompression cycles per tile: 40.9609

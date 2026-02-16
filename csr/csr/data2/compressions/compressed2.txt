@@ -1,0 +1,2560 @@
+=== Tile (0,0) ===
+size
+8
+Column indices
+31 62 18 7 33 25 17 31 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 8 8 
+
+=== Tile (0,1) ===
+size
+4
+Column indices
+59 9 27 36 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 
+
+=== Tile (0,2) ===
+size
+6
+Column indices
+29 22 32 26 19 58 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (0,3) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (0,4) ===
+size
+6
+Column indices
+57 23 57 15 29 17 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (0,5) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (0,6) ===
+size
+6
+Column indices
+52 56 24 33 49 35 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 
+
+=== Tile (0,7) ===
+size
+6
+Column indices
+44 3 63 46 29 40 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 
+
+=== Tile (0,8) ===
+size
+3
+Column indices
+50 37 14 
+Non-zero values
+1 1 1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 
+
+=== Tile (0,9) ===
+size
+3
+Column indices
+51 24 50 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 
+
+=== Tile (0,10) ===
+size
+5
+Column indices
+60 50 59 26 31 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (0,11) ===
+size
+1
+Column indices
+1 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (0,12) ===
+size
+4
+Column indices
+9 10 49 12 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 
+
+=== Tile (0,13) ===
+size
+1
+Column indices
+62 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (0,14) ===
+size
+3
+Column indices
+17 2 59 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 
+
+=== Tile (0,15) ===
+size
+5
+Column indices
+50 51 51 51 5 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 
+
+=== Tile (1,0) ===
+size
+6
+Column indices
+19 48 1 25 40 16 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 4 5 5 5 5 5 5 5 5 5 5 5 6 
+
+=== Tile (1,1) ===
+size
+1
+Column indices
+56 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (1,2) ===
+size
+5
+Column indices
+50 12 32 8 26 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 
+
+=== Tile (1,3) ===
+size
+3
+Column indices
+27 20 3 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (1,4) ===
+size
+5
+Column indices
+21 5 3 54 26 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (1,5) ===
+size
+7
+Column indices
+7 41 50 63 60 18 2 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 5 6 7 7 7 7 7 7 7 
+
+=== Tile (1,6) ===
+size
+4
+Column indices
+55 37 5 15 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (1,7) ===
+size
+2
+Column indices
+15 40 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (1,8) ===
+size
+4
+Column indices
+9 31 25 3 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (1,9) ===
+size
+3
+Column indices
+16 27 9 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (1,10) ===
+size
+3
+Column indices
+17 39 16 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (1,11) ===
+size
+4
+Column indices
+41 5 42 43 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (1,12) ===
+size
+2
+Column indices
+25 11 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (1,13) ===
+size
+2
+Column indices
+33 51 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 
+
+=== Tile (1,14) ===
+size
+5
+Column indices
+59 19 62 48 19 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 
+
+=== Tile (1,15) ===
+size
+3
+Column indices
+38 51 53 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (2,0) ===
+size
+3
+Column indices
+17 31 47 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 
+
+=== Tile (2,1) ===
+size
+5
+Column indices
+37 57 24 44 62 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 5 5 5 5 5 5 5 5 
+
+=== Tile (2,2) ===
+size
+4
+Column indices
+10 0 22 6 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (2,3) ===
+size
+9
+Column indices
+37 3 61 62 61 16 3 38 51 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 4 4 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 9 9 9 9 
+
+=== Tile (2,4) ===
+size
+3
+Column indices
+22 41 36 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 
+
+=== Tile (2,5) ===
+size
+4
+Column indices
+16 26 21 3 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (2,6) ===
+size
+2
+Column indices
+55 51 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (2,7) ===
+size
+3
+Column indices
+33 31 40 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 
+
+=== Tile (2,8) ===
+size
+5
+Column indices
+33 51 22 55 24 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (2,9) ===
+size
+5
+Column indices
+25 1 26 39 31 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (2,10) ===
+size
+9
+Column indices
+39 57 30 12 48 55 54 44 10 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 6 6 6 6 6 7 7 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 9 
+
+=== Tile (2,11) ===
+size
+4
+Column indices
+24 2 6 47 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (2,12) ===
+size
+6
+Column indices
+57 56 5 19 58 8 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 
+
+=== Tile (2,13) ===
+size
+3
+Column indices
+24 48 3 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (2,14) ===
+size
+5
+Column indices
+59 6 4 30 44 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 3 3 3 4 5 5 
+
+=== Tile (2,15) ===
+size
+3
+Column indices
+28 61 20 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 
+
+=== Tile (3,0) ===
+size
+4
+Column indices
+13 21 54 41 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (3,1) ===
+size
+4
+Column indices
+45 55 48 59 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 
+
+=== Tile (3,2) ===
+size
+10
+Column indices
+14 51 28 39 2 63 31 43 56 5 
+Non-zero values
+1 1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 2 2 2 3 3 3 3 4 4 4 4 4 4 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 9 9 9 10 10 10 10 10 10 
+
+=== Tile (3,3) ===
+size
+5
+Column indices
+32 28 63 19 32 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 5 5 5 5 
+
+=== Tile (3,4) ===
+size
+2
+Column indices
+12 32 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (3,5) ===
+size
+2
+Column indices
+42 40 
+Non-zero values
+1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (3,6) ===
+size
+3
+Column indices
+39 46 46 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 
+
+=== Tile (3,7) ===
+size
+5
+Column indices
+2 56 10 42 10 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 
+
+=== Tile (3,8) ===
+size
+7
+Column indices
+61 44 49 50 36 57 54 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 
+
+=== Tile (3,9) ===
+size
+6
+Column indices
+24 7 11 19 21 25 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 5 5 5 5 5 5 5 5 5 5 5 6 6 6 
+
+=== Tile (3,10) ===
+size
+9
+Column indices
+47 17 1 38 34 16 31 2 46 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 7 7 8 8 8 8 8 9 9 
+
+=== Tile (3,11) ===
+size
+2
+Column indices
+39 61 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 
+
+=== Tile (3,12) ===
+size
+3
+Column indices
+62 0 11 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 
+
+=== Tile (3,13) ===
+size
+3
+Column indices
+5 8 43 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (3,14) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (3,15) ===
+size
+3
+Column indices
+11 4 60 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 3 
+
+=== Tile (4,0) ===
+size
+6
+Column indices
+17 8 12 48 56 3 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 5 5 5 5 5 5 6 6 6 6 6 
+
+=== Tile (4,1) ===
+size
+6
+Column indices
+4 13 49 5 14 20 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 
+
+=== Tile (4,2) ===
+size
+1
+Column indices
+3 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+
+=== Tile (4,3) ===
+size
+8
+Column indices
+12 4 33 31 61 44 30 56 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 7 8 8 8 8 8 8 8 
+
+=== Tile (4,4) ===
+size
+4
+Column indices
+7 61 45 45 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (4,5) ===
+size
+5
+Column indices
+11 47 32 21 44 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (4,6) ===
+size
+5
+Column indices
+14 8 56 11 54 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (4,7) ===
+size
+2
+Column indices
+11 15 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (4,8) ===
+size
+5
+Column indices
+37 39 41 29 28 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 
+
+=== Tile (4,9) ===
+size
+5
+Column indices
+2 44 50 47 37 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 5 
+
+=== Tile (4,10) ===
+size
+6
+Column indices
+27 40 39 34 20 11 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (4,11) ===
+size
+5
+Column indices
+52 35 52 21 48 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (4,12) ===
+size
+4
+Column indices
+40 2 19 58 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 
+
+=== Tile (4,13) ===
+size
+8
+Column indices
+8 24 11 29 20 23 26 43 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 6 6 7 8 8 8 8 
+
+=== Tile (4,14) ===
+size
+8
+Column indices
+63 7 61 7 11 54 5 15 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 8 8 8 8 8 
+
+=== Tile (4,15) ===
+size
+2
+Column indices
+23 22 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (5,0) ===
+size
+3
+Column indices
+30 20 13 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 
+
+=== Tile (5,1) ===
+size
+1
+Column indices
+49 
+Non-zero values
+1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (5,2) ===
+size
+3
+Column indices
+16 44 29 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (5,3) ===
+size
+4
+Column indices
+45 3 14 7 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 
+
+=== Tile (5,4) ===
+size
+1
+Column indices
+52 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (5,5) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (5,6) ===
+size
+5
+Column indices
+53 6 23 5 23 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (5,7) ===
+size
+2
+Column indices
+2 51 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 
+
+=== Tile (5,8) ===
+size
+7
+Column indices
+57 42 35 44 54 41 29 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 
+
+=== Tile (5,9) ===
+size
+5
+Column indices
+59 37 41 23 59 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (5,10) ===
+size
+5
+Column indices
+45 13 28 14 9 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 
+
+=== Tile (5,11) ===
+size
+5
+Column indices
+13 61 48 11 19 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 
+
+=== Tile (5,12) ===
+size
+4
+Column indices
+5 48 36 56 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 
+
+=== Tile (5,13) ===
+size
+2
+Column indices
+5 3 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 
+
+=== Tile (5,14) ===
+size
+6
+Column indices
+11 57 38 59 58 63 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 5 5 5 6 
+
+=== Tile (5,15) ===
+size
+1
+Column indices
+48 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (6,0) ===
+size
+2
+Column indices
+43 53 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (6,1) ===
+size
+3
+Column indices
+37 46 3 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (6,2) ===
+size
+6
+Column indices
+41 54 27 25 9 7 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 
+
+=== Tile (6,3) ===
+size
+4
+Column indices
+4 26 5 57 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 
+
+=== Tile (6,4) ===
+size
+5
+Column indices
+19 17 60 42 32 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 
+
+=== Tile (6,5) ===
+size
+5
+Column indices
+23 8 2 38 31 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 
+
+=== Tile (6,6) ===
+size
+4
+Column indices
+4 13 26 25 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (6,7) ===
+size
+3
+Column indices
+15 56 62 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (6,8) ===
+size
+3
+Column indices
+20 4 50 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 
+
+=== Tile (6,9) ===
+size
+4
+Column indices
+40 56 33 51 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (6,10) ===
+size
+2
+Column indices
+62 23 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 
+
+=== Tile (6,11) ===
+size
+8
+Column indices
+5 13 2 43 0 58 18 48 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 
+
+=== Tile (6,12) ===
+size
+3
+Column indices
+3 19 39 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 
+
+=== Tile (6,13) ===
+size
+3
+Column indices
+62 33 1 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (6,14) ===
+size
+6
+Column indices
+25 13 23 60 19 57 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (6,15) ===
+size
+8
+Column indices
+56 60 19 23 11 27 35 22 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 4 4 4 4 5 7 8 8 8 8 
+
+=== Tile (7,0) ===
+size
+5
+Column indices
+40 15 36 48 5 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (7,1) ===
+size
+2
+Column indices
+28 56 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (7,2) ===
+size
+2
+Column indices
+12 47 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (7,3) ===
+size
+1
+Column indices
+41 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (7,4) ===
+size
+2
+Column indices
+63 21 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (7,5) ===
+size
+6
+Column indices
+2 43 51 30 12 49 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 
+
+=== Tile (7,6) ===
+size
+4
+Column indices
+20 25 26 40 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (7,7) ===
+size
+6
+Column indices
+31 53 41 36 3 39 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 6 
+
+=== Tile (7,8) ===
+size
+4
+Column indices
+55 9 24 52 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 
+
+=== Tile (7,9) ===
+size
+6
+Column indices
+25 63 8 55 18 52 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 5 6 
+
+=== Tile (7,10) ===
+size
+7
+Column indices
+38 39 63 16 25 14 24 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 
+
+=== Tile (7,11) ===
+size
+3
+Column indices
+4 17 31 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 
+
+=== Tile (7,12) ===
+size
+2
+Column indices
+53 5 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 
+
+=== Tile (7,13) ===
+size
+5
+Column indices
+19 0 0 30 50 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 1 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 
+
+=== Tile (7,14) ===
+size
+6
+Column indices
+47 46 19 14 61 40 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (7,15) ===
+size
+6
+Column indices
+38 48 53 12 21 46 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (8,0) ===
+size
+5
+Column indices
+12 6 28 18 28 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (8,1) ===
+size
+6
+Column indices
+48 62 17 52 62 25 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 
+
+=== Tile (8,2) ===
+size
+4
+Column indices
+45 53 39 33 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (8,3) ===
+size
+3
+Column indices
+35 42 57 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (8,4) ===
+size
+4
+Column indices
+46 42 36 57 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 
+
+=== Tile (8,5) ===
+size
+2
+Column indices
+57 40 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (8,6) ===
+size
+4
+Column indices
+8 37 62 36 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (8,7) ===
+size
+4
+Column indices
+62 22 28 29 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 
+
+=== Tile (8,8) ===
+size
+7
+Column indices
+30 11 10 40 13 21 25 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 
+
+=== Tile (8,9) ===
+size
+6
+Column indices
+62 50 37 48 47 15 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (8,10) ===
+size
+5
+Column indices
+56 22 40 45 8 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 
+
+=== Tile (8,11) ===
+size
+2
+Column indices
+10 25 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (8,12) ===
+size
+8
+Column indices
+39 26 54 17 3 41 41 54 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 
+
+=== Tile (8,13) ===
+size
+7
+Column indices
+21 18 15 5 11 50 11 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+
+=== Tile (8,14) ===
+size
+5
+Column indices
+17 55 53 15 37 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (8,15) ===
+size
+3
+Column indices
+39 16 52 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (9,0) ===
+size
+7
+Column indices
+14 23 16 6 16 12 9 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 5 5 5 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 
+
+=== Tile (9,1) ===
+size
+5
+Column indices
+29 3 43 49 14 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 
+
+=== Tile (9,2) ===
+size
+3
+Column indices
+33 52 44 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 
+
+=== Tile (9,3) ===
+size
+5
+Column indices
+7 24 19 50 56 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 
+
+=== Tile (9,4) ===
+size
+4
+Column indices
+45 29 47 18 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (9,5) ===
+size
+2
+Column indices
+21 48 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (9,6) ===
+size
+5
+Column indices
+61 10 17 13 13 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (9,7) ===
+size
+5
+Column indices
+9 57 19 57 50 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 
+
+=== Tile (9,8) ===
+size
+7
+Column indices
+13 18 16 22 1 16 35 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 6 6 6 6 6 7 7 7 7 7 7 
+
+=== Tile (9,9) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (9,10) ===
+size
+4
+Column indices
+4 33 36 47 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (9,11) ===
+size
+4
+Column indices
+41 14 18 46 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 
+
+=== Tile (9,12) ===
+size
+4
+Column indices
+5 38 53 8 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 
+
+=== Tile (9,13) ===
+size
+4
+Column indices
+51 37 55 59 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 
+
+=== Tile (9,14) ===
+size
+7
+Column indices
+50 22 44 30 53 53 33 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 
+
+=== Tile (9,15) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (10,0) ===
+size
+6
+Column indices
+22 56 43 23 59 52 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 4 5 5 5 6 6 
+
+=== Tile (10,1) ===
+size
+5
+Column indices
+13 35 57 46 20 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (10,2) ===
+size
+4
+Column indices
+0 61 36 25 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (10,3) ===
+size
+9
+Column indices
+26 56 36 59 20 52 0 50 62 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 9 9 9 
+
+=== Tile (10,4) ===
+size
+2
+Column indices
+8 37 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (10,5) ===
+size
+7
+Column indices
+45 31 57 14 15 38 5 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 1 1 1 2 2 3 3 3 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 7 7 7 
+
+=== Tile (10,6) ===
+size
+3
+Column indices
+38 42 18 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 
+
+=== Tile (10,7) ===
+size
+3
+Column indices
+15 39 25 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (10,8) ===
+size
+6
+Column indices
+27 20 63 61 13 9 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 
+
+=== Tile (10,9) ===
+size
+4
+Column indices
+55 14 24 57 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 4 
+
+=== Tile (10,10) ===
+size
+3
+Column indices
+29 48 15 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (10,11) ===
+size
+8
+Column indices
+37 31 53 29 38 7 60 13 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 8 8 8 8 
+
+=== Tile (10,12) ===
+size
+6
+Column indices
+45 54 44 43 30 63 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (10,13) ===
+size
+7
+Column indices
+23 57 42 54 21 21 28 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 7 7 7 
+
+=== Tile (10,14) ===
+size
+3
+Column indices
+33 33 17 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 
+
+=== Tile (10,15) ===
+size
+4
+Column indices
+17 21 2 7 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 
+
+=== Tile (11,0) ===
+size
+2
+Column indices
+37 30 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (11,1) ===
+size
+2
+Column indices
+20 31 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (11,2) ===
+size
+2
+Column indices
+31 36 
+Non-zero values
+1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (11,3) ===
+size
+2
+Column indices
+51 30 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (11,4) ===
+size
+3
+Column indices
+16 37 23 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (11,5) ===
+size
+9
+Column indices
+31 59 0 5 38 31 37 61 14 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 2 2 3 3 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 9 9 
+
+=== Tile (11,6) ===
+size
+6
+Column indices
+36 10 22 41 1 22 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 
+
+=== Tile (11,7) ===
+size
+3
+Column indices
+56 48 57 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (11,8) ===
+size
+5
+Column indices
+47 37 27 43 62 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 
+
+=== Tile (11,9) ===
+size
+5
+Column indices
+12 41 14 41 56 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 
+
+=== Tile (11,10) ===
+size
+6
+Column indices
+53 2 8 46 38 48 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 
+
+=== Tile (11,11) ===
+size
+4
+Column indices
+16 38 53 43 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (11,12) ===
+size
+4
+Column indices
+63 41 50 24 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 
+
+=== Tile (11,13) ===
+size
+4
+Column indices
+13 58 3 47 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (11,14) ===
+size
+5
+Column indices
+46 41 21 41 34 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (11,15) ===
+size
+6
+Column indices
+16 24 22 60 9 35 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (12,0) ===
+size
+3
+Column indices
+25 7 37 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (12,1) ===
+size
+3
+Column indices
+21 28 55 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 
+
+=== Tile (12,2) ===
+size
+6
+Column indices
+30 26 16 5 60 40 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 
+
+=== Tile (12,3) ===
+size
+2
+Column indices
+23 60 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (12,4) ===
+size
+4
+Column indices
+47 25 45 3 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 
+
+=== Tile (12,5) ===
+size
+1
+Column indices
+61 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (12,6) ===
+size
+5
+Column indices
+54 61 42 62 5 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 5 5 5 5 
+
+=== Tile (12,7) ===
+size
+2
+Column indices
+33 0 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (12,8) ===
+size
+2
+Column indices
+1 59 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (12,9) ===
+size
+4
+Column indices
+57 29 26 53 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (12,10) ===
+size
+7
+Column indices
+53 23 33 36 53 54 45 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 7 7 7 
+
+=== Tile (12,11) ===
+size
+8
+Column indices
+23 6 60 19 51 20 7 19 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+
+=== Tile (12,12) ===
+size
+3
+Column indices
+48 6 13 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 
+
+=== Tile (12,13) ===
+size
+4
+Column indices
+47 47 6 38 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (12,14) ===
+size
+3
+Column indices
+49 16 7 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 
+
+=== Tile (12,15) ===
+size
+6
+Column indices
+4 41 35 56 7 46 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 
+
+=== Tile (13,0) ===
+size
+2
+Column indices
+30 11 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (13,1) ===
+size
+1
+Column indices
+18 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (13,2) ===
+size
+3
+Column indices
+19 37 17 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (13,3) ===
+size
+3
+Column indices
+39 50 62 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (13,4) ===
+size
+2
+Column indices
+10 48 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 
+
+=== Tile (13,5) ===
+size
+4
+Column indices
+60 30 24 10 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (13,6) ===
+size
+2
+Column indices
+2 16 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (13,7) ===
+size
+1
+Column indices
+51 
+Non-zero values
+1 
+Row offsets
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (13,8) ===
+size
+1
+Column indices
+59 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (13,9) ===
+size
+2
+Column indices
+5 34 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (13,10) ===
+size
+6
+Column indices
+21 38 50 45 16 5 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 
+
+=== Tile (13,11) ===
+size
+5
+Column indices
+31 28 36 9 37 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 
+
+=== Tile (13,12) ===
+size
+3
+Column indices
+14 8 27 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (13,13) ===
+size
+4
+Column indices
+46 9 33 34 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (13,14) ===
+size
+4
+Column indices
+5 2 53 38 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (13,15) ===
+size
+2
+Column indices
+59 52 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (14,0) ===
+size
+9
+Column indices
+35 37 4 19 17 44 1 19 47 
+Non-zero values
+1 1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 3 3 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 7 7 7 8 8 9 9 9 9 9 
+
+=== Tile (14,1) ===
+size
+4
+Column indices
+35 7 9 26 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (14,2) ===
+size
+4
+Column indices
+32 20 52 34 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 
+
+=== Tile (14,3) ===
+size
+1
+Column indices
+42 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (14,4) ===
+size
+1
+Column indices
+35 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+=== Tile (14,5) ===
+size
+3
+Column indices
+51 58 32 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,6) ===
+size
+3
+Column indices
+1 3 60 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,7) ===
+size
+1
+Column indices
+27 
+Non-zero values
+1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 
+
+=== Tile (14,8) ===
+size
+3
+Column indices
+14 49 11 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,9) ===
+size
+3
+Column indices
+8 43 26 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,10) ===
+size
+3
+Column indices
+10 6 12 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,11) ===
+size
+5
+Column indices
+5 54 38 49 38 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (14,12) ===
+size
+5
+Column indices
+38 47 55 55 61 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 4 4 5 
+
+=== Tile (14,13) ===
+size
+3
+Column indices
+31 44 18 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,14) ===
+size
+3
+Column indices
+43 21 54 
+Non-zero values
+1 1 1 
+Row offsets
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (14,15) ===
+size
+7
+Column indices
+61 27 51 6 62 13 2 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 
+
+=== Tile (15,0) ===
+size
+5
+Column indices
+1 14 16 33 26 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 
+
+=== Tile (15,1) ===
+size
+7
+Column indices
+27 45 30 47 62 4 14 
+Non-zero values
+1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 4 4 4 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 
+
+=== Tile (15,2) ===
+size
+3
+Column indices
+17 58 55 
+Non-zero values
+1 1 1 
+Row offsets
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+
+=== Tile (15,3) ===
+size
+2
+Column indices
+12 17 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 
+
+=== Tile (15,4) ===
+size
+8
+Column indices
+26 61 42 25 35 46 3 14 
+Non-zero values
+1 1 1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 8 
+
+=== Tile (15,5) ===
+size
+4
+Column indices
+43 14 8 58 
+Non-zero values
+1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 4 4 4 4 
+
+=== Tile (15,6) ===
+size
+2
+Column indices
+30 57 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 
+
+=== Tile (15,7) ===
+size
+2
+Column indices
+37 39 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 
+
+=== Tile (15,8) ===
+size
+0
+Column indices
+
+Non-zero values
+
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+=== Tile (15,9) ===
+size
+6
+Column indices
+9 24 52 46 40 42 
+Non-zero values
+1 1 1 1 1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 4 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 
+
+=== Tile (15,10) ===
+size
+2
+Column indices
+16 55 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+=== Tile (15,11) ===
+size
+2
+Column indices
+47 13 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 
+
+=== Tile (15,12) ===
+size
+5
+Column indices
+6 49 15 59 33 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+
+=== Tile (15,13) ===
+size
+5
+Column indices
+14 26 51 33 47 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 
+
+=== Tile (15,14) ===
+size
+5
+Column indices
+62 53 8 11 3 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 4 4 4 5 5 5 5 5 5 5 5 5 
+
+=== Tile (15,15) ===
+size
+5
+Column indices
+36 44 44 59 22 
+Non-zero values
+1 1 1 1 1 
+Row offsets
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 
+

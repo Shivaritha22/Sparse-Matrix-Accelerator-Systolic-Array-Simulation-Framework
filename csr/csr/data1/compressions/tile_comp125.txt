@@ -1,0 +1,8 @@
+size
+2
+Column indices
+47 5 
+Non-zero values
+1 1 
+Row offsets
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 

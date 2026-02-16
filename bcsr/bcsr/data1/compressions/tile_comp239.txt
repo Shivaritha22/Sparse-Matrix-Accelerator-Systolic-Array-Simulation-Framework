@@ -1,0 +1,8 @@
+blocks
+1
+Column indices
+40 
+Non-zero block values
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Row offsets
+0 0 0 0 0 0 0 1 
