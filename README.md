@@ -1,0 +1,2 @@
+# Sparse-Matrix-Accelerator-Systolic-Array-Simulation-Framework
+Built C++ simulators for stationary and non-stationary systolic arrays, modeling dataflow, memory access, and cycle-accurate latency for matrix multiplication. Implemented CSR, COO, and BCSR formats to study storage–latency trade-offs. Benchmarked 20 sparse matrices and validated performance using roofline-based throughput analysis.
